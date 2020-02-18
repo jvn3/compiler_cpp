@@ -1,4 +1,4 @@
-Built an compiler using the language C++ and the following grammar:-
+Built n compiler using the language C++ and the following grammar:-
 
 Prog := Slist
 Slist := SC { Slist } | Stmt SC { Slist }
